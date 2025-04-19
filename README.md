@@ -3,12 +3,15 @@
 This repository showcases a list of certifications and training programs I have completed.
 
 ## TCM Security
-1. [**Practical Junior Penetration Tester**](![image](https://github.com/user-attachments/assets/7d3f4ecf-2484-451d-ab38-2a774a2de3fe)
+1. [**Practical Junior Penetration Tester**}
+
+![image](https://github.com/user-attachments/assets/7d3f4ecf-2484-451d-ab38-2a774a2de3fe)
 Link to verify: https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z 
 
 ## Google
 1. [**Google Cybersecurity Certificate**](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Google%20Cybersecurity%20Certificate.pdf)
-Link to verify:
+
+Link to verify: https://coursera.org/share/447a22b20fce6fb41db005a0819e3137
 
 ---
 
