@@ -3,7 +3,7 @@
 This repository showcases a list of certifications and training programs I have completed.
 
 ## TCM Security
-1. [**Practical Junior Penetration Tester**}
+1. **Practical Junior Penetration Tester**
 
 ![image](https://github.com/user-attachments/assets/7d3f4ecf-2484-451d-ab38-2a774a2de3fe)
 Link to verify: https://certified.tcm-sec.com/ee7f1ca3-20b5-4c2a-8c9a-06b1c53666bc#acc.tA0B1v3Z 
